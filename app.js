@@ -10,9 +10,8 @@ addbtn.addEventListener('click',()=>{
     listItem.innerText = text ;
     listItem.classList.add("li-item")
     let span1 = document.createElement('span');
-    let c = 10;
     let x1 = document.createTextNode("X");
-    
+    let r = 2323;
     let span2 = document.createElement('span');
     let x2 = document.createTextNode("edit");
     span1.appendChild(x1);
